@@ -14,6 +14,13 @@ This repository serves as the WebSocket server for Amahane Chat, a chat platform
 - `Express`
 - `Socket.io`
 
+# Project Structure
+The Amahane Chat project is split across multiple repositories:
+
+- **Frontend**: [fe.jpchat](https://github.com/animedaisuki/fe.jpchat)
+- **WebSocket Server**: [so.amahanechat](https://github.com/animedaisuki/socket.amahanechat) (Current repository)
+- **Backend**: be.jpchat (Private, not publicly accessible at this time)
+
 # Installation
 Clone the Repository
 ```bash
