@@ -1,4 +1,5 @@
 # AmahaneChat - Socket Server
+[Official Website](https://amahanechat.org/register)
 
 # Description
 This repository serves as the WebSocket server for Amahane Chat, a chat platform designed for anime and manga enthusiasts. The server is responsible for real-time messaging, handling WebSocket connections, and video call signaling.
