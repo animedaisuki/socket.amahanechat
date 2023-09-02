@@ -18,25 +18,25 @@ text
 
 # Installation
 Clone the Repository
-bash```
-git clone https://github.com/yourusername/so.amahanechat.git```
+```bash
+git clone https://github.com/yourusername/so.amahanechat.git
+```
 
 Install Dependencies
 Navigate to the project directory and run:
-
-bash
-Copy code
+```bash
 npm install
+```
+
 Environment Configuration
 Edit the .env file to include necessary environment variables like SOCKET_PORT and CORS_ORIGIN.
 
 Run the Server
 To start the WebSocket server, navigate to the project directory and run:
-
-bash
-Copy code
+```bash
 npm start
 The server should now be running and waiting for WebSocket connections on the specified port.
+```
 
 # Events Handled
 addUser: Adds a new user and their socket ID to a list of connected users.
