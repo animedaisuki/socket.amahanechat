@@ -35,8 +35,9 @@ Run the Server
 To start the WebSocket server, navigate to the project directory and run:
 ```bash
 npm start
-The server should now be running and waiting for WebSocket connections on the specified port.
 ```
+
+The server should now be running and waiting for WebSocket connections on the specified port.
 
 # Events Handled
 addUser: Adds a new user and their socket ID to a list of connected users.
