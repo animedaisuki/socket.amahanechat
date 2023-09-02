@@ -7,7 +7,7 @@ This repository serves as the WebSocket server for Amahane Chat, a chat platform
 - `User Management`: Keeps track of connected users.
 - `Real-Time Messaging`: Allows text and sticker messages.
 - `Conversation Management`: Supports the addition of new conversations.
-- `Video Call`s: Manages signaling for peer-to-peer video calls.
+- `Video Calls`: Manages signaling for peer-to-peer video calls.
 
 # Technologies Used
 - `Node.js`
