@@ -17,7 +17,7 @@ This repository serves as the WebSocket server for Amahane Chat, a chat platform
 # Installation
 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/so.amahanechat.git
+git clone git@github.com:animedaisuki/so.amahanechat.git
 ```
 
 Install Dependencies
